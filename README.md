@@ -64,8 +64,6 @@ Unknown-vocabulary inputs return `unrecognized`; blank or oversized inputs are r
 - data/split.csv: processed Amazon sentences and split assignments.
 - reports/: measured evaluation and error analysis files.
 - examples.csv: illustrative demo inputs, not evaluation data.
-- RESUME_AND_INTERVIEW.md: three accurate bullets and a short walkthrough.
-- PROJECT_GUIDE.md: full code walkthrough, ML concepts, evaluation math, limitations, and 20 interview questions with sample answers.
 
 ## Limitations and next steps
 
